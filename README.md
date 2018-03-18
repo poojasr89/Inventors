@@ -7,6 +7,7 @@ The assumption is that patented inventions indicate an orientation towards resea
 
 1. Look at inventors_16.py : Although population of CA is higher, percentage of patent grantees in MA is higher than that in CA.
 
+
 2. Let us look at how population of just CA and MA have evolved over time v/s percentage patent grantees from these two states: inventors_v20.py
 
 3. Another interesting data to look at is the categories in which these patents were awarded in CA and MA: inventors_v11.py
