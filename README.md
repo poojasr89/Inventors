@@ -19,6 +19,9 @@ As we had noticed earlier, the total number of patent grantees (as % of populati
 
 Inference: Although there is an overall decline in the number of young women inventors, the data shows that Massachusetts is more conducive to women inventors in the fields of chemical and medical research than other states. 
 
+The link to data-set:
+http://www.equality-of-opportunity.org/data/patents/table_2b.csv
+
 
 
 
